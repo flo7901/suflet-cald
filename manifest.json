@@ -1,0 +1,26 @@
+{
+  "name": "Suflet Cald - Rugăciuni Sfinte",
+  "short_name": "Suflet Cald",
+  "description": "Rugăciuni creștine pentru fiecare nevoie - Eu Floryan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6E8",
+  "theme_color": "#C8102E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "ro",
+  "categories": ["lifestyle", "books"]
+}
